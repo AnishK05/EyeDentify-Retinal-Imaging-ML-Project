@@ -11,3 +11,5 @@ Future work includes expanding datasets, refining deep learning models, integrat
 Placed 2nd at Texas State Science Fair and published abstract in the Social Science Research Network (SSRN): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438594
 
 Group Members: Anish Kalra, Trishay Naman, Dhroov Pathare
+
+Note: Raspberry Pi scripts (which were used for deep learning model integration with raspberry pi imaging device) are not available in this repo
