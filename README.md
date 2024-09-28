@@ -1,6 +1,6 @@
 Research Project Summary: 
 
-This research project devloped an inexpensive, non-mydriatic retinal imaging device combined with deep learning algorithms for broad-spectrum disease diagnosis. The aim is to create an accessible, accurate, and user-friendly tool for diagnosing a range of ophthalmic and neurodegenerative diseases by utilizing retinal biomarkers. The study involved building a non-mydriatic infrared fundus imaging device and integrating it with several deep learning models to analyze retinal images.
+This research project devloped an inexpensive, non-mydriatic retinal imaging device combined with deep learning algorithms for broad-spectrum disease diagnosis. The aim is to create an accessible, accurate, and user-friendly tool for diagnosing 24 ophthalmic and neurodegenerative diseases by utilizing retinal biomarkers. The study involved building a non-mydriatic infrared fundus imaging device and integrating it with several deep learning models to analyze retinal images.
 
 The research utilized a limited dataset, preprocessing techniques like Gaussian blur, grayscale, histogram equalization, and normalization to enhance model accuracy. Multiple deep learning architectures, including a multi-layer feedforward neural network and 3x3 Conv2D models, were evaluated. The optimized models demonstrated significant improvements in diagnostic accuracy, with the categorical classification model achieving an accuracy of 99.4% (overall efficacy rate of 0.9 - 0.97)
 
