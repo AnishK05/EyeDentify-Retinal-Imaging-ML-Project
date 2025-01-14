@@ -6,7 +6,7 @@ The research utilized a limited dataset, preprocessing techniques like Gaussian 
 
 Statistical analysis confirmed the reliability of the models, showing a statistically significant improvement (p=0.01) over traditional diagnostic methods. 
 
-This project demonstrates the potential of combining low-cost hardware with ML/AI to make advanced healthcare diagnostics more accessible worldwide.
+By combining affordable hardware with optimized AI models, this work offers a promising solution to improve eye and brain disease diagnosis and care worldwide.
 
 Published 40-page research paper in the Social Science Research Network (SSRN): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438594
 
