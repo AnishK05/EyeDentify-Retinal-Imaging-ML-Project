@@ -4,7 +4,7 @@ This research project developed an inexpensive, non-mydriatic retinal imaging de
 
 The research utilized a limited dataset, preprocessing techniques like Gaussian blur, grayscale, histogram equalization, and normalization to enhance model accuracy. Multiple deep learning architectures, including a multi-layer feedforward neural network and 3x3 Conv2D models, were evaluated. The optimized models demonstrated significant improvements in diagnostic accuracy, with the categorical classification model achieving an accuracy of 99.4% (overall efficacy rate of 0.9 - 0.97). An Android mobile app was developed to host the ML models and provide real-time disease diagnosis.
 
-Statistical analysis confirmed the reliability of the models, showing a statistically significant improvement over traditional diagnostic methods. 
+Statistical analysis confirmed the reliability of the models, showing a statistically significant improvement (p=0.01) over traditional diagnostic methods. 
 
 This project demonstrates the potential of combining low-cost hardware with ML/AI to make advanced healthcare diagnostics more accessible worldwide.
 
@@ -12,4 +12,4 @@ Published 40-page research paper in the Social Science Research Network (SSRN): 
 
 Group Members: Anish Kalra, Trishay Naman, Dhroov Pathare
 
-Note: Raspberry Pi scripts (which were used for deep learning model integration with raspberry pi imaging device) are not available in this repository.
+Note: Raspberry Pi scripts (which were used for deep learning model integration with Raspberry Pi imaging device) are not available in this repository.
